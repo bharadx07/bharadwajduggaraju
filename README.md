@@ -8,7 +8,7 @@
     <a href="https://bharadwaj.duggaraju.com">me</a> .
     <a href="https://bharadwaj.duggaraju.com/#projects">projects</a> .
     <a href="https://www.linkedin.com/in/bharadwajduggaraju/">linkedin</a> .
-    <a href="https://twitter.com/techybd">tweets</a> .
+    <a href="https://twitter.com/techyybd">tweets</a> .
     <a href="https://instagram.com/bharadwaj.dugg">instagram</a> .
     <a href="https://www.facebook.com/bharadwaj.duggaraju">facebook</a> .
     <a href="mailto:bharadwaj.duggaraju@outlook.com">email</a> .
