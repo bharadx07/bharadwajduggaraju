@@ -12,7 +12,7 @@
     <a href="https://instagram.com/bharadwaj.dugg">instagram</a> .
     <a href="https://www.facebook.com/bharadwaj.duggaraju">facebook</a> .
     <a href="mailto:bharadwaj.duggaraju@outlook.com">email</a> .
-    <a href="https://www.npmjs.com/package/better-eval">npm</a> .
+    <a href="https://www.npmjs.com/~bharadwajduggaraju">npm</a> .
     <a href="https://www.youtube.com/channel/UCJy6nune_gskx_ZeA_rar1w">youtube</a> .
     <a href="https://www.worldcubeassociation.org/persons/2017DUGG01">cubing</a> .
     <a href="https://techtoday.azurewebsites.net">my top product</a> 
