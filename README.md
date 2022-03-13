@@ -1,5 +1,6 @@
 <!-- markdownlint-disable-next-line -->
-I'm a student, programmer, and an open source enthusiast. I founded [TechToday](https://github.com/bharadwajduggaraju/techtoday) (100+ users), develop at [Jagathi Foundation](https://github.com/bharadwajduggaraju/jf), and contribute popular open-source projects. I'm learning Competitive Programming, while working on Robotics (FRC), and teaching at [Robotics For All](https://roboticsforall.us). On the side, I'm a avid debater and speedcuber.
+I'm a student, programmer, and an open source enthusiast. I founded [TechToday](https://github.com/bharadwajduggaraju/techtoday) (100+ users), develop at [Jagathi Foundation](https://github.com/bharadwajduggaraju/jf), and contribute to popular open-source projects. I'm learning Competitive Programming, while working on Robotics (FRC), and teaching at [Robotics For All](https://roboticsforall.us). On the side, I'm a avid debater and speedcuber.
+
 <h4>
   <samp>
     <a href="https://bharadwaj.duggaraju.com">me</a> .
@@ -11,10 +12,7 @@ I'm a student, programmer, and an open source enthusiast. I founded [TechToday](
     <a href="mailto:bharadwaj.duggaraju@outlook.com">email</a> .
     <a href="https://www.npmjs.com/~bharadwajduggaraju">npm</a> .
     <a href="https://www.youtube.com/channel/UCJy6nune_gskx_ZeA_rar1w">youtube</a> .
-    <a href="https://www.worldcubeassociation.org/persons/2017DUGG01">cubing</a> .
-    <a href="https://techtoday.azurewebsites.net">my top product</a> 
+    <a href="https://www.worldcubeassociation.org/persons/2017DUGG01">cubing</a> 
   </samp>
 </h4>
 
-
-<!--Pronounce Guide: (Ba-Rod-Woj) -->
