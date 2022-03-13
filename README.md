@@ -1,7 +1,5 @@
 <!-- markdownlint-disable-next-line -->
-
-**Bharadwaj Duggaraju** is a student, programmer, and an [open source enthusiast](https://github.com/bharadwajduggaraju). He is the founder of [TechToday](https://github.com/bharadwajduggaraju/techtoday) (100+ users) and a developer at [Jagathi Foundation](https://github.com/bharadwajduggaraju/jf) (1k+ monthly visitors), an avid volunteer, and a contributor to popular open-source projects. He participates in Competitive Programming and Robotics (FLL + FRC), and teaches at [Robotics For All](https://roboticsforall.us). On the side, he likes to Debate, solve Rubik Cubes and play Badminton.
-
+I'm a student, programmer, and an open source enthusiast. I founded [TechToday](https://github.com/bharadwajduggaraju/techtoday) (100+ users), develop at [Jagathi Foundation](https://github.com/bharadwajduggaraju/jf), and contribute popular open-source projects. I'm learning Competitive Programming, while working on Robotics (FRC), and teaching at [Robotics For All](https://roboticsforall.us). On the side, I'm a avid debater and speedcuber.
 <h4>
   <samp>
     <a href="https://bharadwaj.duggaraju.com">me</a> .
