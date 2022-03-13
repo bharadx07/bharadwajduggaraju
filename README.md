@@ -1,5 +1,5 @@
 <!-- markdownlint-disable-next-line -->
-I'm a student, programmer, and an open source enthusiast. I founded [TechToday](https://github.com/bharadwajduggaraju/techtoday) (100+ users), develop at [Jagathi Foundation](https://github.com/bharadwajduggaraju/jf), and contribute to popular open-source projects. I'm learning Competitive Programming, while working on Robotics (FRC), and teaching at [Robotics For All](https://roboticsforall.us). On the side, I'm a avid debater and speedcuber.
+I'm a student, programmer, and an open source enthusiast. I founded [TechToday](https://github.com/bharadwajduggaraju/techtoday) (100+ users), develop at [Jagathi Foundation](https://github.com/bharadwajduggaraju/jf), and contribute to popular open-source projects while creating my own. I'm learning Competitive Programming, while working on Robotics (FRC), and teaching at [Robotics For All](https://roboticsforall.us). On the side, I'm a avid debater and speedcuber.
 
 <h4>
   <samp>
